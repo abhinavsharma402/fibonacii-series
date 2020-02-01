@@ -1,1 +1,1 @@
-# print fibonnaci series using tai recursion
+# print fibonnaci series using tail recursion
